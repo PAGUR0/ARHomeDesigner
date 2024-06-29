@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "771441627259",
+    "firebase_url": "https://arhomedesigner-7f067-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "arhomedesigner-7f067",
+    "storage_bucket": "arhomedesigner-7f067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771441627259:android:664a38ff1ceb91ddb452de",
+        "android_client_info": {
+          "package_name": "com.unity.template.ar_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDZKwz88QbXGj6VaEwRYx24-1kylYyI-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
